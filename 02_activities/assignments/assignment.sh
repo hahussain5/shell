@@ -9,9 +9,6 @@ set -x
 # project name and a brief description of the project.
 # Then it unzips the raw data provided by the client.
 
-# completed by Hadia Hussain
-# Git username: hahussain5
-
 mkdir analysis output
 touch README.md
 echo "# Project Name: DSI Consulting Inc." > README.md
